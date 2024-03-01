@@ -1,0 +1,8 @@
+First i create-react-app sales-app then add components like Register,Login,Top5sales,Totalrevenue ,addsales page
+Then there is navbar will added to page in above by layout page using {children} 
+Then there contextapi is used in table the data will be used then in total revenue amount adding from the objContext page will be taken 
+For open 
+1.npm i
+2.npm start
+
+
